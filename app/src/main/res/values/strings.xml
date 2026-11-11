@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý kho hàng</string>
+
+    <!-- Login -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="err_login_empty">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="err_login_wrong">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <!-- Main -->
+    <string name="title_main">Kho hàng của tôi</string>
+    <string name="stat_total">%1$d</string>
+    <string name="stat_value">%1$s</string>
+    <string name="stat_low">%1$d</string>
+    <string name="empty_list">Chưa có sản phẩm nào</string>
+    <string name="btn_add_product">+ Thêm sản phẩm</string>
+    <string name="low_stock_label">Sắp hết hàng</string>
+    <string name="item_quantity">SL: %1$d</string>
+    <string name="item_price">Giá bán: %1$s</string>
+
+    <!-- Add -->
+    <string name="title_add">Thêm sản phẩm</string>
+    <string name="hint_name">Ví dụ: Tai nghe Bluetooth</string>
+    <string name="hint_price">Chỉ nhập số, ví dụ: 250000</string>
+    <string name="hint_quantity">Chỉ nhập số nguyên, ví dụ: 10</string>
+    <string name="label_category">Loại sản phẩm</string>
+    <string name="label_active">Đang kinh doanh</string>
+    <string name="hint_description">Nhập mô tả (nhiều dòng)...</string>
+    <string name="btn_save">Lưu sản phẩm</string>
+    <string name="err_name">Vui lòng nhập tên sản phẩm</string>
+    <string name="err_price">Giá bán phải là số lớn hơn 0</string>
+    <string name="err_quantity">Số lượng phải là số nguyên không âm</string>
+    <string name="msg_saved">Đã thêm sản phẩm</string>
+
+    <string-array name="categories">
+        <item>Điện tử</item>
+        <item>Thực phẩm</item>
+        <item>Văn phòng phẩm</item>
+        <item>Gia dụng</item>
+        <item>Khác</item>
+    </string-array>
+
+    <!-- Detail -->
+    <string name="title_detail">Chi tiết sản phẩm</string>
+    <string name="detail_price">%1$s</string>
+    <string name="detail_quantity">%1$d</string>
+    <string name="detail_stock_value">%1$s</string>
+    <string name="detail_warning">Sắp hết hàng</string>
+    <string name="detail_description">%1$s</string>
+    <string name="detail_no_description">Không có mô tả</string>
+    <string name="status_active">Đang kinh doanh</string>
+    <string name="status_inactive">Ngừng kinh doanh</string>
+    <string name="btn_import">+ Nhập thêm 1</string>
+    <string name="btn_sell">- Bán 1</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa sản phẩm</string>
+    <string name="msg_out_of_stock">Hết hàng</string>
+    <string name="msg_not_found">Không tìm thấy sản phẩm</string>
+    <string name="msg_deleted">Đã xóa sản phẩm</string>
+    <string name="confirm_delete_title">Xóa sản phẩm</string>
+    <string name="confirm_delete_msg">Bạn có chắc muốn xóa sản phẩm này?</string>
+    <string name="yes">Xóa</string>
+    <string name="no">Hủy</string>
+</resources>

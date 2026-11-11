@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_detail_stock_box.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_detail_stock_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_circle_logo.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_circle_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_button_primary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_product_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_product_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_button_danger.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_button_danger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_stat_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_stat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_button_orange.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_button_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.warehouse.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.example.warehouse.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_button_outline.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_button_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\layout_activity_add_product.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_chip_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_chip_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-merged_res-20:\\drawable_bg_chip_low_stock.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.5\\com.example.warehouse.app-main-22:\\drawable\\bg_chip_low_stock.xml"
+    }
+]

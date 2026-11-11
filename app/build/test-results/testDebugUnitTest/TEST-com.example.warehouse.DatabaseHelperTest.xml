@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.warehouse.DatabaseHelperTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-11T07:00:58" hostname="DESKTOP-K1DBSGO" time="14.359">
+  <properties/>
+  <testcase name="testInitialSeedData" classname="com.example.warehouse.DatabaseHelperTest" time="14.218"/>
+  <testcase name="testUpdateQuantity" classname="com.example.warehouse.DatabaseHelperTest" time="0.049"/>
+  <testcase name="testCheckLogin" classname="com.example.warehouse.DatabaseHelperTest" time="0.03"/>
+  <testcase name="testInsertProduct" classname="com.example.warehouse.DatabaseHelperTest" time="0.031"/>
+  <testcase name="testDeleteProduct" classname="com.example.warehouse.DatabaseHelperTest" time="0.031"/>
+  <system-out><![CDATA[WARNING: No manifest file found at .\AndroidManifest.xml.
+Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+]]></system-out>
+  <system-err><![CDATA[No such manifest file: .\AndroidManifest.xml
+]]></system-err>
+</testsuite>

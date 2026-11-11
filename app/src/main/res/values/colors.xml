@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors (Royal Indigo) -->
+    <color name="primary">#283593</color>
+    <color name="primary_dark">#1A237E</color>
+    <color name="accent">#3F51B5</color>
+
+    <color name="teal_stat_bg">#283593</color>
+    <color name="teal_chip_bg">#E8EAF6</color>
+    <color name="teal_chip_text">#283593</color>
+
+    <!-- Button Colors -->
+    <color name="btn_primary">#283593</color>
+    <color name="btn_orange">#FB8C00</color>
+    <color name="btn_danger">#E53935</color>
+
+    <!-- Status & Badge Colors -->
+    <color name="danger">#E53935</color>
+    <color name="red_chip_bg">#FFEBEE</color>
+    <color name="red_chip_text">#E53935</color>
+
+    <!-- General UI Colors -->
+    <color name="bg_app">#F4F6F9</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="input_bg">#FAFAFA</color>
+    <color name="input_border">#D1D5DB</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>

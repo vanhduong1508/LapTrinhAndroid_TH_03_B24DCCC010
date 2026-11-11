@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.warehouse.UtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-11T07:01:12" hostname="DESKTOP-K1DBSGO" time="0.001">
+  <properties/>
+  <testcase name="testFormatMoneyStandard" classname="com.example.warehouse.UtilsTest" time="0.001"/>
+  <testcase name="testFormatMoneyLarge" classname="com.example.warehouse.UtilsTest" time="0.0"/>
+  <testcase name="testFormatMoneyZero" classname="com.example.warehouse.UtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
